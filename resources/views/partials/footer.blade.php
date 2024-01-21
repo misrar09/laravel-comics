@@ -2,7 +2,7 @@
         <div class="cat_wrapper">
             <div class="cats ">
                 @foreach ($categories as $category)
-                <img :src="$category['image']" alt="image">
+                <img :src="{{ $category['image'] }}" alt="image">
                 <span>{{ $category['text'] }}</span>
                 @endforeach
             </div>

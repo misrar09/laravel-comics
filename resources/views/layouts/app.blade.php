@@ -17,6 +17,7 @@
     <main>
 
         @yield ('jumbotron')
+        @include ('partials.cards')
 
 
 

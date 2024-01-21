@@ -16,6 +16,11 @@
 
 
 <style>
+    .wrapper {
+        width: 75%;
+        margin: 0 auto;
+    }
+
     .navbar {
         display: flex;
         align-items: center;
