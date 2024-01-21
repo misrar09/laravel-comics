@@ -14,6 +14,14 @@
         @include ('partials.header')
     </header>
 
+    <main>
+
+        @yield ('jumbotron')
+
+
+
+    </main>
+
     <footer>
         @include ('partials.footer')
     </footer>
