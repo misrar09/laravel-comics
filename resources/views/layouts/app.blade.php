@@ -14,6 +14,10 @@
         @include ('partials.header')
     </header>
 
+    <footer>
+        @include ('partials.footer')
+    </footer>
+
 
 
 </body>

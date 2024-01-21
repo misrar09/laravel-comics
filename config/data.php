@@ -36,4 +36,28 @@ return [
             'link' => "#",
         ]
     ],
+
+
+    "categories" => [
+        [
+            'image' => "/img/buy-comics-digital-comics.png",
+            'text' => "DIGITAL COMICS"
+        ],
+        [
+            'image' => "/img/buy-comics-merchandise.png",
+            'text' => "DC MERCHANDISE"
+        ],
+        [
+            'image' => "/img/buy-comics-subscriptions.png",
+            'text' => "SUBSCRITPTOIN",
+        ],
+        [
+            'image' => "/img/buy-comics-shop-locator.png",
+            'text' => "COMIC SHOP LOCATOR",
+        ],
+        [
+            'image' => "/img/buy-dc-power-visa.svg",
+            'text' => "DC POWER VISA",
+        ],
+    ]
 ];
