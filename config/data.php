@@ -40,7 +40,7 @@ return [
 
     "categories" => [
         [
-            'image' => "/img/buy-comics-digital-comics.png",
+            'image' => "buy-comics-digital-comics.png",
             'text' => "DIGITAL COMICS"
         ],
         [
