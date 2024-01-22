@@ -64,12 +64,13 @@
                 <div>
                     <h4>FOLLOW US</h4>
                 </div>
-                <div>
-                    <i class="fa-brands fa-facebook"></i>
-                    <i class="fa-brands fa-twitter"></i>
-                    <i class="fa-brands fa-youtube"></i>
-                    <i class="fa-brands fa-pinterest"></i>
-                    <i class="fa-solid fa-location-dot"></i>
+                <div class="media">
+                    <img src="/img/footer-facebook.png" alt="fb logo">
+                    <img src="/img/footer-pinterest.png" alt="pin logo">
+                    <img src="/img/footer-twitter.png" alt="twitter logo">
+                    <img src="/img/footer-youtube.png" alt="yt logo">
+                    <img src="/img/footer-periscope.png" alt="ps logo">
+
                 </div>
             </div>
         </div>
@@ -134,15 +135,12 @@
             background-image: url(./img/dc-logo-bg.png);
         }
 
-        i {
+        .media img {
             color: gray;
             font-size: 2rem;
             margin-right: 1rem;
         }
 
-        i:hover {
-            color: #3682f3;
-        }
 
         .col h4 {
             padding-bottom: 0.5rem;
